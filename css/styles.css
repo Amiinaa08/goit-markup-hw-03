@@ -1,0 +1,127 @@
+/* #region tags */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #ffffff;
+  letter-spacing: 0.02em;
+}
+
+ul {
+  list-style-type: none;
+}
+/* #endregion */
+
+/* #region header */
+/* #region logo */
+.logo {
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.17;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.header-logo-span {
+  color: #2e2f42;
+}
+
+.footer-logo-span {
+  color: #f4f4fd;
+}
+/* #endregion */
+
+/* #region nav */
+.nav-link {
+  color: #2e2f42;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contacts-list {
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+/* #endregion */
+
+.address-link {
+  color: #434455;
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+/* #endregion */
+
+/* #region main */
+.main-headline {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.section-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: white;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.section-button:hover,
+.section-button:focus {
+  background-color: #404bbf;
+}
+
+.section-headline {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+}
+
+.section-list-headline {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.order-section {
+  background-color: #2e2f42;
+}
+
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-list-item {
+  background-color: #ffffff;
+}
+/* #endregion */
+
+/* #region footer */
+.footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+/* #endregion */
