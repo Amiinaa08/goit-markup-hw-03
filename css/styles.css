@@ -74,14 +74,12 @@ ul {
 /* #endregion */
 
 /* #region nav */
-.nav-list-item {
-  padding: 24px 0;
-}
-
 .nav-link {
   color: #2e2f42;
   text-decoration: none;
   font-weight: 500;
+  display: inline-block;
+  padding: 24px 0;
 }
 
 .contacts-list {
